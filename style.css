@@ -1,0 +1,57 @@
+
+.navbar{
+	font-family: 'Indie Flower', cursive; 
+}
+
+.carousel-inner{
+	width: 100%;
+	height: 100%;
+}
+
+.card{
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	height: 300px;
+	flex-wrap: wrap;
+
+	font-size: 10px;
+}
+
+#testimonials
+{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	
+}
+
+form{
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+footer{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+}
+
+footer a{
+	padding:20px;
+}
+
+a{
+	text-decoration: none;
+	color: #ffffff;
+
+}
+
+#media-icon ul{
+	display: flex;
+	list-style: none;
+	padding:20px;
+}
